@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning 
 - 🌱 I’m currently learning deep reinforcement learning
 - 💞️ I’m looking to collaborate on anything that I would like.
-- 📫 How to reach me 
+- 📫 You can reach me on dukaanadaar13@gmail.com
 
 <!---
 novichok-yaja/novichok-yaja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
